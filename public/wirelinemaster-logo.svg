@@ -1,0 +1,13 @@
+<svg width="536" height="536" viewBox="0 0 536 536" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="49" y="214.008" width="20.0152" height="135.443" rx="10.0076" transform="rotate(-30 49 214.008)" fill="white"/>
+<rect x="165.916" y="214.008" width="20.0152" height="135.443" rx="10.0076" transform="rotate(-30 165.916 214.008)" fill="white"/>
+<rect width="20.0152" height="135.443" rx="10.0076" transform="matrix(-0.866025 -0.5 -0.5 0.866025 193.282 214.008)" fill="white"/>
+<rect width="20.0152" height="135.443" rx="10.0076" transform="matrix(-0.866025 -0.5 -0.5 0.866025 193.282 214.008)" fill="white"/>
+<rect width="20.0152" height="59.6348" rx="10.0076" transform="matrix(-0.866025 -0.5 -0.5 0.866025 272.353 279.66)" fill="white"/>
+<rect x="486.805" y="321.297" width="20.0152" height="135.443" rx="10.0076" transform="rotate(150 486.805 321.297)" fill="#3182CE"/>
+<rect x="369.889" y="321.297" width="20.0152" height="135.443" rx="10.0076" transform="rotate(150 369.889 321.297)" fill="#3182CE"/>
+<rect width="20.0152" height="135.443" rx="10.0076" transform="matrix(0.866025 0.5 0.5 -0.866025 342.523 321.297)" fill="#3182CE"/>
+<rect width="20.0152" height="135.443" rx="10.0076" transform="matrix(0.866025 0.5 0.5 -0.866025 342.523 321.297)" fill="#3182CE"/>
+<rect width="20.0152" height="59.6348" rx="10.0076" transform="matrix(0.866025 0.5 0.5 -0.866025 263.452 255.645)" fill="#3182CE"/>
+<circle cx="268" cy="268" r="260" stroke="white" stroke-width="16"/>
+</svg>
