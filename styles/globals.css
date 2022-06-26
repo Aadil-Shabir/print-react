@@ -1,3 +1,51 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@media all {
+    .page-break {
+      display: none;
+    }
+  }
+  
+  /* @media print {
+    .print-container {
+      height: initial !important;
+      overflow: initial !important;
+      -webkit-print-color-adjust: exact;
+    }
+  } */
+  
+  @media print {
+    .page-break {
+      margin-top: 1rem;
+      display: block;
+      page-break-before: auto;
+    }
+  }
+  
+  @page {
+    size: auto;
+    margin: 20mm;
+  }
+
+  .printContainer {
+    display: block;
+  width: auto;
+  height: auto;
+  overflow: visible; }
+
+  @media only print {
+    #printContainer {
+        display: block;
+      width: 100%;
+      height: auto;
+      overflow: visible;
+    }
+    .page-break {
+        margin-top: 1rem;
+        display: block;
+        page-break-before: always;
+      }
+    
+ }
